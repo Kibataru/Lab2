@@ -38,5 +38,5 @@ id,description
 
 1. **Склонируйте репозиторий**
 2. pip install -r requirements.txt
-3. **Переименуйте .env.ex в .env и впишите ключ и адрес сервера**
+3. ** В .env впишите ключ и адрес**
 4. python main.py
