@@ -1,0 +1,152 @@
+[
+    {
+        "brand": "Apple",
+        "category": "Смартфон",
+        "price": "145 000 рублей",
+        "id": "1"
+    },
+    {
+        "brand": "Nike",
+        "category": "кроссовки",
+        "price": "12500 руб.",
+        "id": "2"
+    },
+    {
+        "brand": "ASUS",
+        "category": "Игровой ноутбук",
+        "price": "135000",
+        "id": "3"
+    },
+    {
+        "brand": "Dyson",
+        "category": "пылесос",
+        "price": 75000,
+        "id": "4"
+    },
+    {
+        "brand": "Samsung",
+        "category": "Телевизор",
+        "price": 60000,
+        "id": "5"
+    },
+    {
+        "brand": "Sony",
+        "category": "беспроводные наушники",
+        "price": "35000",
+        "id": "6"
+    },
+    {
+        "brand": "Adidas",
+        "category": "Спортивная куртка",
+        "price": 4500,
+        "id": "7"
+    },
+    {
+        "brand": "DeLonghi",
+        "category": "Кофемашина",
+        "price": 30000,
+        "id": "8"
+    },
+    {
+        "brand": "Oral-B",
+        "category": "Электрическая зубная щетка",
+        "price": 4000,
+        "id": "9"
+    },
+    {
+        "brand": "The North Face",
+        "category": "рюкзак",
+        "price": 8900,
+        "id": "10"
+    },
+    {
+        "brand": "Xiaomi",
+        "category": "Планшет",
+        "price": 32000,
+        "id": "11"
+    },
+    {
+        "brand": "Apple",
+        "category": "Умные часы",
+        "price": "48 000 руб.",
+        "id": "12"
+    },
+    {
+        "brand": "GIGABYTE",
+        "category": "видеокарта",
+        "price": 85000,
+        "id": "13"
+    },
+    {
+        "brand": "LG",
+        "category": "Микроволновая печь",
+        "price": "11500",
+        "id": "14"
+    },
+    {
+        "brand": "Timberland",
+        "category": "Зимние ботинки",
+        "price": 18000,
+        "id": "15"
+    },
+    {
+        "brand": "Bosch",
+        "category": "Стиральная машина",
+        "price": "45000 рублей",
+        "id": "16"
+    },
+    {
+        "brand": "Canon",
+        "category": "Беззеркальный фотоаппарат",
+        "price": 320000,
+        "id": "17"
+    },
+    {
+        "brand": "Logitech",
+        "category": "игровая мышь",
+        "price": "13000",
+        "id": "18"
+    },
+    {
+        "brand": "Philips",
+        "category": "Паровой утюг",
+        "price": 9500,
+        "id": "19"
+    },
+    {
+        "brand": "Ninebot",
+        "category": "Электросамокат",
+        "price": 65000,
+        "id": "20"
+    },
+    {
+        "brand": "Haier",
+        "category": "холодильник",
+        "price": 55000,
+        "id": "21"
+    },
+    {
+        "brand": "Outventure",
+        "category": "Палатка кемпинговая",
+        "price": 15000,
+        "id": "22"
+    },
+    {
+        "brand": "Roborock",
+        "category": "Робот-пылесос",
+        "price": "58 000 руб.",
+        "id": "23"
+    },
+    {
+        "brand": "Tefal",
+        "category": "Электрический гриль",
+        "price": 16000,
+        "id": "24"
+    },
+    {
+        "brand": "Dyson",
+        "category": "Фен для волос",
+        "price": "42000 рублей",
+        "id": "25"
+    }
+]
